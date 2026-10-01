@@ -1,1 +1,0 @@
-# yt-transcript-ai
